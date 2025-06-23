@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Movieland
+MovieLand is a simple and responsive React application that allows users to search for movies using the OMDB API. It fetches and displays movie details based on user input, showing results in an elegant card layout.
+>>>>>>> bf5b25e972d584c9cf3e7e6d195eeef8019b2ef8
